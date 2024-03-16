@@ -1,16 +1,16 @@
 import json
 # 导入python包
 
-date = 'phi_data.json'
+date = './zhutao/phi_data.json'
 # 将文件路径写在一个位置，方便更改
 
 def chaxun():
     print(f'\nhi~ 这里是查询姬，需要我为您做些什么?\n-----------------\n您可输入的查询类型有\n')
     print(f'·歌曲名称：name\n·歌曲别名:oname\n·歌曲长度：sslen\n·难度定数：sds\n·曲师：squshi\n·谱师：spushi\n\n-----------------\n')
     # date = 'phi_shuju.json'
-    with open(date, 'r')as d:
+    with open(date, 'r') as d:
         a = json.load(d)
-        sa = []
+        sa = set()
         while True:
             b = str(input("请选择查询类型:"))
             c = str(input("请输入关键字:"))
@@ -21,9 +21,9 @@ def chaxun():
                         out_sign = False
                         e = a.get(c)
                         print(f"\n\n·歌曲名称{e.get('sname')}\n·歌曲别名{e.get('soname')}\n·歌曲长度{e.get('sslen')}\n·难度定数{e.get('sds')}\n·曲师{e.get('squshi')}\n·谱师{e.get('spushi')}\n")
-                    elif not out_sign:
+                    elif out_sign:
                         # 如果按照原来的方法，每比较一次将会产生一次输出，所以只有不存在才打印。
-                        print('未找到相关歌曲')
+                        sa.add("未找到相关歌曲")
                 elif b != 'name' and b != 'oname':
                     for f in a.keys():
                         if c in a.get(f).values():
@@ -33,7 +33,7 @@ def chaxun():
                     print('未找到相关歌曲')
             if b or c == 'e':
                 break
-                    
+        print(list(sa))
 
 def shuru():
     # date = 'phi_shuju.json'
