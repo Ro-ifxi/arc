@@ -1,0 +1,2570 @@
+{
+ "Sayonara Hatsukoi": {
+  "sds": 7,
+  "sname": "Sayonara Hatsukoi",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "REDSHiFT",
+  "sslen": "178"
+ },
+ "Lost Civilization": {
+  "sds": 9,
+  "sname": "Lost Civilization",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Laur vs CK",
+  "sslen": "75 - 210"
+ },
+ "GOODTEK (Arcaea Edit)": {
+  "sds": 9,
+  "sname": "GOODTEK (Arcaea Edit)",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "EBIMAYO",
+  "sslen": "190"
+ },
+ "cry of viyella": {
+  "sds": 8,
+  "sname": "cry of viyella",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Laur",
+  "sslen": "75 - 180"
+ },
+ "Rise": {
+  "sds": 7,
+  "sname": "Rise",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Combatplayer",
+  "sslen": "140"
+ },
+ "Lucifer": {
+  "sds": 8,
+  "sname": "Lucifer",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "chitose",
+  "sslen": "165"
+ },
+ "Fairytale": {
+  "sds": 7,
+  "sname": "Fairytale",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "chitose",
+  "sslen": "189"
+ },
+ "I've heard it said": {
+  "sds": 8,
+  "sname": "I've heard it said",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Combatplayer",
+  "sslen": "165"
+ },
+ "Babaroque": {
+  "sds": 8,
+  "sname": "Babaroque",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "cYsmix",
+  "sslen": "136"
+ },
+ "memoryfactory.lzh": {
+  "sds": 8,
+  "sname": "memoryfactory.lzh",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Frums",
+  "sslen": "100"
+ },
+ "Snow White": {
+  "sds": 8,
+  "sname": "Snow White",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Puru",
+  "sslen": "150"
+ },
+ "Relentless": {
+  "sds": 8,
+  "sname": "Relentless",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Akira Complex",
+  "sslen": "174"
+ },
+ "Shades of Light in a Transcendent Realm": {
+  "sds": 8,
+  "sname": "Shades of Light in a Transcendent Realm",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "ak+q",
+  "sslen": "170"
+ },
+ "Vexaria": {
+  "sds": 7,
+  "sname": "Vexaria",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "ak+q",
+  "sslen": "180"
+ },
+ "Essence of Twilight": {
+  "sds": 9,
+  "sname": "Essence of Twilight",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "ak+q",
+  "sslen": "164"
+ },
+ "qualia -ideaesthesia-": {
+  "sds": 9,
+  "sname": "qualia -ideaesthesia-",
+  "soname": null,
+  "spushi": "-chartaesthesia-",
+  "squshi": "nitro",
+  "sslen": "144"
+ },
+ "PRAGMATISM": {
+  "sds": 10,
+  "sname": "PRAGMATISM",
+  "soname": null,
+  "spushi": "\u6771\u661f",
+  "squshi": "Laur",
+  "sslen": "174"
+ },
+ "Sheriruth": {
+  "sds": 10,
+  "sname": "Sheriruth",
+  "soname": null,
+  "spushi": "\u591c\u6d6a",
+  "squshi": "Team Grimoire",
+  "sslen": "185"
+ },
+ "Lumia": {
+  "sds": 8,
+  "sname": "Lumia",
+  "soname": null,
+  "spushi": "Toaster missing Nitro.",
+  "squshi": "sky_delta",
+  "sslen": "180"
+ },
+ "Dement ~after legend~": {
+  "sds": 7,
+  "sname": "Dement ~after legend~",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Cosmograph",
+  "sslen": "210"
+ },
+ "Dandelion": {
+  "sds": 8,
+  "sname": "Dandelion",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Farhan",
+  "sslen": "169"
+ },
+ "An\u00f6kumene": {
+  "sds": 9,
+  "sname": "An\u00f6kumene",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Jun Kuroda",
+  "sslen": "186"
+ },
+ "Infinity Heaven": {
+  "sds": 7,
+  "sname": "Infinity Heaven",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "HyuN",
+  "sslen": "160"
+ },
+ "Party Vinyl": {
+  "sds": 9,
+  "sname": "Party Vinyl",
+  "soname": null,
+  "spushi": "Party Toaster",
+  "squshi": "\u30e2\u30ea\u30e2\u30ea\u3042\u3064\u3057",
+  "sslen": "132"
+ },
+ "Flashback": {
+  "sds": 8,
+  "sname": "Flashback",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "ARForest",
+  "sslen": "195"
+ },
+ "Flyburg and Endroll": {
+  "sds": 9,
+  "sname": "Flyburg and Endroll",
+  "soname": null,
+  "spushi": "N\u30fcHelix",
+  "squshi": "\u30a2\u30ea\u30b9\u30b7\u30e3\u30c3\u30cf\u3068\u9b54\u6cd5\u306e\u697d\u56e3",
+  "sslen": "180"
+ },
+ "Nirv lucE": {
+  "sds": 10,
+  "sname": "Nirv lucE",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u7d05\u7a7a",
+  "squshi": "\u3057\u30fc\u3051\u30fc",
+  "sslen": "260"
+ },
+ "Paradise": {
+  "sds": 7,
+  "sname": "Paradise",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Sound Souler",
+  "sslen": "126"
+ },
+ "Brand new world": {
+  "sds": 7,
+  "sname": "Brand new world",
+  "soname": null,
+  "spushi": "Nitro 2.0",
+  "squshi": "U-ske",
+  "sslen": "160"
+ },
+ "DataErr0r": {
+  "sds": 9,
+  "sname": "DataErr0r",
+  "soname": null,
+  "spushi": "ToastErr0r",
+  "squshi": "Cosmograph",
+  "sslen": "180"
+ },
+ "CROSS\u2020SOUL": {
+  "sds": 9,
+  "sname": "CROSS\u2020SOUL",
+  "soname": null,
+  "spushi": "k//eternal",
+  "squshi": "HyuN feat. Syepias",
+  "sslen": "200"
+ },
+ "Your voice so... feat. Such": {
+  "sds": 9,
+  "sname": "Your voice so... feat. Such",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "PSYQUI",
+  "sslen": "176"
+ },
+ "Chronostasis": {
+  "sds": 8,
+  "sname": "Chronostasis",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "\u9ed2\u7687\u5e1d",
+  "sslen": "196"
+ },
+ "Kanagawa Cyber Culvert": {
+  "sds": 9,
+  "sname": "Kanagawa Cyber Culvert",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "\u5357\u3086\u306b",
+  "sslen": "180"
+ },
+ "Moonlight of Sand Castle": {
+  "sds": 7,
+  "sname": "Moonlight of Sand Castle",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "\u65c5\u4ebaE",
+  "sslen": "160"
+ },
+ "REconstruction": {
+  "sds": 8,
+  "sname": "REconstruction",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Ryazan",
+  "sslen": "180"
+ },
+ "Evoltex (poppi'n mix)": {
+  "sds": 8,
+  "sname": "Evoltex (poppi'n mix)",
+  "soname": null,
+  "spushi": "k//eternal",
+  "squshi": "Arch vs n3pu",
+  "sslen": "205"
+ },
+ "Oracle": {
+  "sds": 9,
+  "sname": "Oracle",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "TQ\u2606",
+  "sslen": "152"
+ },
+ "\u03b1terl\u03b2us": {
+  "sds": 10,
+  "sname": "\u03b1terl\u03b2us",
+  "soname": null,
+  "spushi": "\u03c4oast\u03b5r",
+  "squshi": "Aoi",
+  "sslen": "202"
+ },
+ "Clotho and the stargazer": {
+  "sds": 7,
+  "sname": "Clotho and the stargazer",
+  "soname": null,
+  "spushi": "\u5c0f\u6771\u661f",
+  "squshi": "\u3057\u30fc\u3051\u30fc",
+  "sslen": "230"
+ },
+ "Impure Bird": {
+  "sds": 9,
+  "sname": "Impure Bird",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "MIssionary",
+  "sslen": "184"
+ },
+ "Ignotus": {
+  "sds": 9,
+  "sname": "Ignotus",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "ak+q",
+  "sslen": "170"
+ },
+ "Lethaeus": {
+  "sds": 9,
+  "sname": "Lethaeus",
+  "soname": null,
+  "spushi": "\u591c\u6d6a",
+  "squshi": "Silentroom",
+  "sslen": "155"
+ },
+ "Romance Wars": {
+  "sds": 7,
+  "sname": "Romance Wars",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "U-ske (feat. lueur)",
+  "sslen": "187"
+ },
+ "Blossoms": {
+  "sds": 7,
+  "sname": "Blossoms",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "T2Kazuya",
+  "sslen": "138"
+ },
+ "Moonheart": {
+  "sds": 8,
+  "sname": "Moonheart",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "\u7fe1\u4e43\u30a4\u30b9\u30ab",
+  "sslen": "180"
+ },
+ "Genesis": {
+  "sds": 9,
+  "sname": "Genesis",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "Morrigan feat.Lily",
+  "sslen": "150"
+ },
+ "Harutopia ~Utopia of Spring~": {
+  "sds": 8,
+  "sname": "Harutopia ~Utopia of Spring~",
+  "soname": null,
+  "spushi": "\u30c8\u30fc\u30b9\u30c8\u30d4\u30a2  ~Utopia of Toast~",
+  "squshi": "A-zu-ra",
+  "sslen": "185"
+ },
+ "Auxesia": {
+  "sds": 9,
+  "sname": "Auxesia",
+  "soname": null,
+  "spushi": "Nitro\u3060\u30fc\uff01",
+  "squshi": "ginkiha",
+  "sslen": "183"
+ },
+ "Rabbit In The Black Room": {
+  "sds": 8,
+  "sname": "Rabbit In The Black Room",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Rabbit House",
+  "sslen": "270"
+ },
+ "Modelista": {
+  "sds": 10,
+  "sname": "Modelista",
+  "soname": null,
+  "spushi": "NITRO",
+  "squshi": "HiTECH NINJA",
+  "sslen": "165"
+ },
+ "SOUNDWiTCH": {
+  "sds": 9,
+  "sname": "SOUNDWiTCH",
+  "soname": null,
+  "spushi": "NiTRO",
+  "squshi": "HATE",
+  "sslen": "170"
+ },
+ "trappola bewitching": {
+  "sds": 10,
+  "sname": "trappola bewitching",
+  "soname": null,
+  "spushi": "k//urorak",
+  "squshi": "gmtn.",
+  "sslen": "190"
+ },
+ "Iconoclast": {
+  "sds": 9,
+  "sname": "Iconoclast",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Yamajet",
+  "sslen": "140"
+ },
+ "conflict": {
+  "sds": 10,
+  "sname": "conflict",
+  "soname": null,
+  "spushi": "toaster + nitro",
+  "squshi": "siromaru + cranky",
+  "sslen": "160"
+ },
+ "Axium Crisis": {
+  "sds": 10,
+  "sname": "Axium Crisis",
+  "soname": null,
+  "spushi": "The Monolith",
+  "squshi": "ak+q",
+  "sslen": "170"
+ },
+ "Grievous Lady": {
+  "sds": 11,
+  "sname": "Grievous Lady",
+  "soname": null,
+  "spushi": "\u8ff7\u8def\u6df1\u5c64",
+  "squshi": "Team Grimoire vs Laur",
+  "sslen": "210"
+ },
+ "Dreamin' Attraction!!": {
+  "sds": 9,
+  "sname": "Dreamin' Attraction!!",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "\u7fe1\u4e43\u30a4\u30b9\u30ab",
+  "sslen": "205"
+ },
+ "Red and Blue": {
+  "sds": 9,
+  "sname": "Red and Blue",
+  "soname": null,
+  "spushi": "-chartaesthesia-\nLEFT=BLUE RED=RIGHT ",
+  "squshi": "Silentroom",
+  "sslen": "150"
+ },
+ "One Last Drive": {
+  "sds": 8,
+  "sname": "One Last Drive",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "REDSHiFT",
+  "sslen": "154 - 175"
+ },
+ "Surrender": {
+  "sds": 8,
+  "sname": "Surrender",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "void",
+  "sslen": "152"
+ },
+ "Yosakura Fubuki": {
+  "sds": 9,
+  "sname": "Yosakura Fubuki",
+  "soname": null,
+  "spushi": "k//eternal",
+  "squshi": "A.SAKA",
+  "sslen": "172"
+ },
+ "cyanine": {
+  "sds": 10,
+  "sname": "cyanine",
+  "soname": null,
+  "spushi": "\u591c\u6d6a",
+  "squshi": "jioyi",
+  "sslen": "182"
+ },
+ "Dream goes on": {
+  "sds": 7,
+  "sname": "Dream goes on",
+  "soname": null,
+  "spushi": "k//eternal",
+  "squshi": "Tiny Minim",
+  "sslen": "174"
+ },
+ "Journey": {
+  "sds": 8,
+  "sname": "Journey",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "ARForest",
+  "sslen": "200"
+ },
+ "Specta": {
+  "sds": 9,
+  "sname": "Specta",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Junk",
+  "sslen": "179"
+ },
+ "Quon": {
+  "sds": 8,
+  "sname": "Quon",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "DJ Noriken",
+  "sslen": "170"
+ },
+ "Syro": {
+  "sds": 9,
+  "sname": "Syro",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Mitomoro",
+  "sslen": "178"
+ },
+ "Reinvent": {
+  "sds": 8,
+  "sname": "Reinvent",
+  "soname": null,
+  "spushi": "k//eternal + nitro",
+  "squshi": "Sound Souler",
+  "sslen": "174"
+ },
+ "Silent Rush": {
+  "sds": 8,
+  "sname": "Silent Rush",
+  "soname": null,
+  "spushi": "TaroNuke",
+  "squshi": "Soleily",
+  "sslen": "158"
+ },
+ "Singularity": {
+  "sds": 10,
+  "sname": "Singularity",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u30b3\u30e9\u30d7\u30b5\u30fc",
+  "squshi": "ETIA.",
+  "sslen": "175"
+ },
+ "Memory Forest": {
+  "sds": 9,
+  "sname": "Memory Forest",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "ETIA.",
+  "sslen": "178"
+ },
+ "Strongholds": {
+  "sds": 9,
+  "sname": "Strongholds",
+  "soname": null,
+  "spushi": "T\u0394roNuke",
+  "squshi": "Yooh",
+  "sslen": "105"
+ },
+ "next to you": {
+  "sds": 8,
+  "sname": "next to you",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "uma feat. \u6a58\u82b1\u97f3",
+  "sslen": "165"
+ },
+ "Metallic Punisher": {
+  "sds": 10,
+  "sname": "Metallic Punisher",
+  "soname": null,
+  "spushi": "Black Tea",
+  "squshi": "INNOCENT NOIZE",
+  "sslen": "165"
+ },
+ "Blaster": {
+  "sds": 9,
+  "sname": "Blaster",
+  "soname": null,
+  "spushi": "k//urorak",
+  "squshi": "Massive New Krew",
+  "sslen": "180"
+ },
+ "\u03b3uar\u03b4ina": {
+  "sds": 10,
+  "sname": "\u03b3uar\u03b4ina",
+  "soname": null,
+  "spushi": "\u03c4oast\u03b5r",
+  "squshi": "Aoi",
+  "sslen": "202"
+ },
+ "carmine:scythe": {
+  "sds": 9,
+  "sname": "carmine:scythe",
+  "soname": null,
+  "spushi": "\u9031\u520aToaster",
+  "squshi": "\u304b\u3086\u304d",
+  "sslen": "165"
+ },
+ "Be There": {
+  "sds": 9,
+  "sname": "Be There",
+  "soname": null,
+  "spushi": "Be Nitro",
+  "squshi": "PSYQUI",
+  "sslen": "164"
+ },
+ "Cybernecia Catharsis": {
+  "sds": 9,
+  "sname": "Cybernecia Catharsis",
+  "soname": null,
+  "spushi": "Kero + Nitro",
+  "squshi": "Tanchiky",
+  "sslen": "184"
+ },
+ "Call My Name feat. Yukacco": {
+  "sds": 8,
+  "sname": "Call My Name feat. Yukacco",
+  "soname": null,
+  "spushi": "Kuro my Nitro",
+  "squshi": "Mameyudoufu",
+  "sslen": "175"
+ },
+ "inkar-usi": {
+  "sds": 7,
+  "sname": "inkar-usi",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "DIA",
+  "sslen": "102"
+ },
+ "Maze No.9": {
+  "sds": 8,
+  "sname": "Maze No.9",
+  "soname": null,
+  "spushi": "\u5c0f\u6771\u661f",
+  "squshi": "\u30a2\u30ea\u30b9\u30b7\u30e3\u30c3\u30cf\u3068\u9b54\u6cd5\u306e\u697d\u56e3",
+  "sslen": "159"
+ },
+ "The Message": {
+  "sds": 9,
+  "sname": "The Message",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Jun Kuroda",
+  "sslen": "202"
+ },
+ "Sulfur": {
+  "sds": 9,
+  "sname": "Sulfur",
+  "soname": null,
+  "spushi": "Shirorak",
+  "squshi": "\u307a\u306e\u308c\u308a",
+  "sslen": "182"
+ },
+ "Halcyon": {
+  "sds": 10,
+  "sname": "Halcyon",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u592a\u967d",
+  "squshi": "xi",
+  "sslen": "191"
+ },
+ "Ether Strike": {
+  "sds": 10,
+  "sname": "Ether Strike",
+  "soname": null,
+  "spushi": "Zero Sky",
+  "squshi": "Akira Complex",
+  "sslen": "156"
+ },
+ "Fracture Ray": {
+  "sds": 11,
+  "sname": "Fracture Ray",
+  "soname": null,
+  "spushi": "Paradox Zero",
+  "squshi": "Sakuzyo",
+  "sslen": "200"
+ },
+ "Suomi": {
+  "sds": 7,
+  "sname": "Suomi",
+  "soname": null,
+  "spushi": "Toastie",
+  "squshi": "Aire",
+  "sslen": "125"
+ },
+ "Bookmaker (2D Version)": {
+  "sds": 8,
+  "sname": "Bookmaker (2D Version)",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "Kobaryo",
+  "sslen": "175"
+ },
+ "Illegal Paradise": {
+  "sds": 9,
+  "sname": "Illegal Paradise",
+  "soname": null,
+  "spushi": "k//eternal + nitro",
+  "squshi": "gmtn. (witch's slave)",
+  "sslen": "168"
+ },
+ "dropdead": {
+  "sds": 8,
+  "sname": "dropdead",
+  "soname": null,
+  "spushi": "-chartaesthesia-\nLIMITER:25% (OVERDRIVE:+100%)",
+  "squshi": "Frums",
+  "sslen": "50"
+ },
+ "Fallensquare": {
+  "sds": 9,
+  "sname": "Fallensquare",
+  "soname": null,
+  "spushi": "Haruba",
+  "squshi": "Silentroom",
+  "sslen": "99"
+ },
+ "Nhelv": {
+  "sds": 9,
+  "sname": "Nhelv",
+  "soname": null,
+  "spushi": "Nitro\u300cKatastrophe\u300d",
+  "squshi": "Silentroom",
+  "sslen": "174.59"
+ },
+ "LunarOrbit -believe in the Espebranch road-": {
+  "sds": 9,
+  "sname": "LunarOrbit -believe in the Espebranch road-",
+  "soname": null,
+  "spushi": "\u6708\u520aToaster",
+  "squshi": "Apo11o program ft. \u5927\u702c\u826f\u3042\u3044",
+  "sslen": "192"
+ },
+ "Purgatorium": {
+  "sds": 8,
+  "sname": "Purgatorium",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "\u304a\u6708\u3055\u307e\u4ea4\u97ff\u66f2",
+  "sslen": "150"
+ },
+ "Hikari": {
+  "sds": 8,
+  "sname": "Hikari",
+  "soname": null,
+  "spushi": "OptoNuke",
+  "squshi": "THB",
+  "sslen": "130"
+ },
+ "STAGER (ALL STAGE CLEAR)": {
+  "sds": 9,
+  "sname": "STAGER (ALL STAGE CLEAR)",
+  "soname": null,
+  "spushi": "KURORAK",
+  "squshi": "Ras",
+  "sslen": "145"
+ },
+ "Hall of Mirrors": {
+  "sds": 8,
+  "sname": "Hall of Mirrors",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Sta",
+  "sslen": "147"
+ },
+ "Linear Accelerator": {
+  "sds": 9,
+  "sname": "Linear Accelerator",
+  "soname": null,
+  "spushi": "THE TOAST",
+  "squshi": "THE SHAFT",
+  "sslen": "200 - 211.9"
+ },
+ "Tiferet": {
+  "sds": 10,
+  "sname": "Tiferet",
+  "soname": null,
+  "spushi": "\u591c\u6d6a[Spherical]",
+  "squshi": "xi + Sta",
+  "sslen": "140?"
+ },
+ "Alexandrite": {
+  "sds": 10,
+  "sname": "Alexandrite",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u7a7a\u306e\u5b9d\u77f3",
+  "squshi": "WAiKURO",
+  "sslen": "146"
+ },
+ "Rugie": {
+  "sds": 9,
+  "sname": "Rugie",
+  "soname": null,
+  "spushi": "k//urorak",
+  "squshi": "Feryquitous feat.Sennzai",
+  "sslen": "191"
+ },
+ "Astral tale": {
+  "sds": 9,
+  "sname": "Astral tale",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Noah",
+  "sslen": "134"
+ },
+ "Phantasia": {
+  "sds": 9,
+  "sname": "Phantasia",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Yunosuke",
+  "sslen": "153"
+ },
+ "Empire of Winter": {
+  "sds": 9,
+  "sname": "Empire of Winter",
+  "soname": null,
+  "spushi": "0\u00b0Nitro",
+  "squshi": "Street",
+  "sslen": "175"
+ },
+ "MERLIN": {
+  "sds": 8,
+  "sname": "MERLIN",
+  "soname": null,
+  "spushi": "Got More Taro?",
+  "squshi": "REDALiCE",
+  "sslen": "180"
+ },
+ "DX Choseinou Full Metal Shojo": {
+  "sds": 9,
+  "sname": "DX Choseinou Full Metal Shojo",
+  "soname": null,
+  "spushi": "DX\u8b5c\u9762\u4f5c\u8005\u30d5\u30eb\u30e1\u30bf\u30ebNitro",
+  "squshi": "IOSYS TRAX (uno with.\u3061\u3088\u3053)",
+  "sslen": "160"
+ },
+ "OMAKENO Stroke": {
+  "sds": 9,
+  "sname": "OMAKENO Stroke",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "t+pazolite",
+  "sslen": "240"
+ },
+ "Scarlet Lance": {
+  "sds": 10,
+  "sname": "Scarlet Lance",
+  "soname": null,
+  "spushi": "\u95c7\u904b",
+  "squshi": "MASAKI (ZUNTATA)",
+  "sslen": "185"
+ },
+ "ouroboros -twin stroke of the end-": {
+  "sds": 10,
+  "sname": "ouroboros -twin stroke of the end-",
+  "soname": null,
+  "spushi": "Groove \u6771\u661f",
+  "squshi": "Cranky VS MASAKI",
+  "sslen": "188"
+ },
+ "Libertas": {
+  "sds": 9,
+  "sname": "Libertas",
+  "soname": null,
+  "spushi": "Kurorak + Nitro",
+  "squshi": "Zekk",
+  "sslen": "160"
+ },
+ "Solitary Dream": {
+  "sds": 8,
+  "sname": "Solitary Dream",
+  "soname": null,
+  "spushi": "",
+  "squshi": "ak+q feat. Sennzai",
+  "sslen": "162"
+ },
+ "Antithese": {
+  "sds": 8,
+  "sname": "Antithese",
+  "soname": null,
+  "spushi": "chaos//engine",
+  "squshi": "Blacklolita",
+  "sslen": "172"
+ },
+ "Corruption": {
+  "sds": 9,
+  "sname": "Corruption",
+  "soname": null,
+  "spushi": "\u20b8\u00f6\u03b1$\u2020\u03b5\u20b9",
+  "squshi": "3R2",
+  "sslen": "170"
+ },
+ "Black Territory": {
+  "sds": 9,
+  "sname": "Black Territory",
+  "soname": null,
+  "spushi": "NitroNuke\u03b4",
+  "squshi": "DJ Myosuke",
+  "sslen": "200"
+ },
+ "Vicious Heroism": {
+  "sds": 10,
+  "sname": "Vicious Heroism",
+  "soname": null,
+  "spushi": "Nitro vanquish Toaster.",
+  "squshi": "Kobaryo",
+  "sslen": "256"
+ },
+ "Cyaegha": {
+  "sds": 10,
+  "sname": "Cyaegha",
+  "soname": null,
+  "spushi": "\u591c\u6d6a\u3001\u65e7\u652f\u914d\u8005",
+  "squshi": "USAO",
+  "sslen": "200"
+ },
+ "ReviXy": {
+  "sds": 9,
+  "sname": "ReviXy",
+  "soname": null,
+  "spushi": "Revoke Kurorak",
+  "squshi": "ikaruga_nex",
+  "sslen": "115-185"
+ },
+ "Grimheart": {
+  "sds": 8,
+  "sname": "Grimheart",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Puru",
+  "sslen": "170"
+ },
+ "VECTO\u042f": {
+  "sds": 9,
+  "sname": "VECTO\u042f",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "WHITEFISTS",
+  "sslen": "200"
+ },
+ "SUPERNOVA": {
+  "sds": 9,
+  "sname": "SUPERNOVA",
+  "soname": null,
+  "spushi": "\u6771\u8d85\u65b0\u661f",
+  "squshi": "BACO",
+  "sslen": "150"
+ },
+ "Dot to Dot feat. shully": {
+  "sds": 8,
+  "sname": "Dot to Dot feat. shully",
+  "soname": null,
+  "spushi": "\u2022Nitro\u2022",
+  "squshi": "Mameyudoufu",
+  "sslen": "174"
+ },
+ "Garakuta Doll Play": {
+  "sds": 10,
+  "sname": "Garakuta Doll Play",
+  "soname": null,
+  "spushi": "Arcaea Charting Team\u304b\u3089\u306e\u6311\u6226\u72b6 ",
+  "squshi": "t+pazolite",
+  "sslen": "256"
+ },
+ "Ikazuchi": {
+  "sds": 10,
+  "sname": "Ikazuchi",
+  "soname": null,
+  "spushi": "\u5148\u53f2\u306e\u6a5f\u68b0\u795e\u3010\u591c\u6d6a\u3011",
+  "squshi": "\u5149\u5409\u731b\u4fee",
+  "sslen": "200"
+ },
+ "World Vanquisher": {
+  "sds": 10,
+  "sname": "World Vanquisher",
+  "soname": null,
+  "spushi": "\u51e6\u5211\u4eba\u3010\u6771\u661f\u3011",
+  "squshi": "void (Mournfinale)",
+  "sslen": "170"
+ },
+ "Dreadnought": {
+  "sds": 9,
+  "sname": "Dreadnought",
+  "soname": null,
+  "spushi": "Astronomer (Toaster + \u6771\u661f)",
+  "squshi": "Mastermind (xi + nora2r)",
+  "sslen": "96-384"
+ },
+ "Particle Arts": {
+  "sds": 8,
+  "sname": "Particle Arts",
+  "soname": null,
+  "spushi": "\u5c0f\u6771\u661f",
+  "squshi": "Virtual Self",
+  "sslen": "162-175"
+ },
+ "Vindication": {
+  "sds": 9,
+  "sname": "Vindication",
+  "soname": null,
+  "spushi": "Nitro vs Toaster",
+  "squshi": "Laur",
+  "sslen": "174"
+ },
+ "Heavensdoor": {
+  "sds": 9,
+  "sname": "Heavensdoor",
+  "soname": null,
+  "spushi": "Black Tea",
+  "squshi": "LeaF",
+  "sslen": "240"
+ },
+ "Ringed Genesis": {
+  "sds": 10,
+  "sname": "Ringed Genesis",
+  "soname": null,
+  "spushi": "\u591c\u6d6a vs Nitro",
+  "squshi": "Edelritter",
+  "sslen": "160"
+ },
+ "Chelsea": {
+  "sds": 8,
+  "sname": "Chelsea",
+  "soname": null,
+  "spushi": "TaroNuke",
+  "squshi": "7mai",
+  "sslen": "174"
+ },
+ "AI[UE]OON": {
+  "sds": 9,
+  "sname": "AI[UE]OON",
+  "soname": null,
+  "spushi": "N[I]TRO",
+  "squshi": "MYUKKE.",
+  "sslen": "145"
+ },
+ "A Wandering Melody of Love": {
+  "sds": 9,
+  "sname": "A Wandering Melody of Love",
+  "soname": null,
+  "spushi": "\u604b\u306eToaster",
+  "squshi": "\u304b\u3089\u3068P\u03b1nchii\u5c11\u5e74 feat.\u306f\u308b\u306e",
+  "sslen": "165"
+ },
+ "Tie me down gently": {
+  "sds": 8,
+  "sname": "Tie me down gently",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "\u6e9d\u53e3\u3086\u3046\u307e feat. \u5927\u702c\u826f\u3042\u3044",
+  "sslen": "191"
+ },
+ "Valhalla:0": {
+  "sds": 10,
+  "sname": "Valhalla:0",
+  "soname": null,
+  "spushi": "\u591c\u6d6a",
+  "squshi": "Juggernaut.",
+  "sslen": "200"
+ },
+ "Mirzam": {
+  "sds": 10,
+  "sname": "Mirzam",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u304a\u304a\u3044\u306c\u5ea7\u03b2\u661f",
+  "squshi": "Aoi vs. siqlo",
+  "sslen": "201"
+ },
+ "Diode": {
+  "sds": 8,
+  "sname": "Diode",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "Kolaa",
+  "sslen": "132"
+ },
+ "FREEF4LL": {
+  "sds": 8,
+  "sname": "FREEF4LL",
+  "soname": null,
+  "spushi": "N\u2193TRO",
+  "squshi": "YUKIYANAGI",
+  "sslen": "170"
+ },
+ "GLORY\uff1aROAD": {
+  "sds": 10,
+  "sname": "GLORY\uff1aROAD",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u7d05\u7a7a",
+  "squshi": "uma vs. \u30e2\u30ea\u30e2\u30ea\u3042\u3064\u3057",
+  "sslen": "250"
+ },
+ "Monochrome Princess": {
+  "sds": 9,
+  "sname": "Monochrome Princess",
+  "soname": null,
+  "spushi": "N\u2195TRO",
+  "squshi": "polysha",
+  "sslen": "160"
+ },
+ "Heavenly caress": {
+  "sds": 9,
+  "sname": "Heavenly caress",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Noah",
+  "sslen": "241"
+ },
+ "Senkyou": {
+  "sds": 8,
+  "sname": "Senkyou",
+  "soname": null,
+  "spushi": "k//eternal",
+  "squshi": "MYTK",
+  "sslen": "90"
+ },
+ "Filament": {
+  "sds": 9,
+  "sname": "Filament",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Puru",
+  "sslen": "170"
+ },
+ "Avant Raze": {
+  "sds": 9,
+  "sname": "Avant Raze",
+  "soname": null,
+  "spushi": "Avant Toast",
+  "squshi": "Sampling Masters MEGA",
+  "sslen": "200"
+ },
+ "BATTLE NO.1": {
+  "sds": 9,
+  "sname": "BATTLE NO.1",
+  "soname": null,
+  "spushi": "Arcaea Team",
+  "squshi": "TANO*C Sound Team",
+  "sslen": "200"
+ },
+ "La'qryma of the Wasteland": {
+  "sds": 9,
+  "sname": "La'qryma of the Wasteland",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "DJ Noriken",
+  "sslen": "168"
+ },
+ "Einherjar Joker": {
+  "sds": 9,
+  "sname": "Einherjar Joker",
+  "soname": null,
+  "spushi": "Requiem TaroNuke",
+  "squshi": "DJ Genki vs Gram",
+  "sslen": "222"
+ },
+ "IZANA": {
+  "sds": 10,
+  "sname": "IZANA",
+  "soname": null,
+  "spushi": "NITRO",
+  "squshi": "t+pazolite vs P*Light",
+  "sslen": "222"
+ },
+ "SAIKYO STRONGER": {
+  "sds": 11,
+  "sname": "SAIKYO STRONGER",
+  "soname": null,
+  "spushi": "\u6700\u5f37FUMEN (\u591c\u6d6a ft. \u6771\u661f)",
+  "squshi": "REDALiCE vs USAO",
+  "sslen": "205"
+ },
+ "world.execute(me);": {
+  "sds": 8,
+  "sname": "world.execute(me);",
+  "soname": null,
+  "spushi": "toaster.chart(this);",
+  "squshi": "Mili",
+  "sslen": "130"
+ },
+ "BLRINK": {
+  "sds": 9,
+  "sname": "BLRINK",
+  "soname": null,
+  "spushi": "\u672a\u6765\u306e\u7e01",
+  "squshi": "Sta",
+  "sslen": "115"
+ },
+ "Oblivia": {
+  "sds": 8,
+  "sname": "Oblivia",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Saiph",
+  "sslen": "180"
+ },
+ "amygdata": {
+  "sds": 9,
+  "sname": "amygdata",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "nitro",
+  "sslen": "154"
+ },
+ "corps-sans-organes": {
+  "sds": 10,
+  "sname": "corps-sans-organes",
+  "soname": null,
+  "spushi": "\u591c\u6d6a\u300c\u6708\u98df\u300d",
+  "squshi": "cybermiso",
+  "sslen": "105"
+ },
+ "Equilibrium": {
+  "sds": 9,
+  "sname": "Equilibrium",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "Maozon",
+  "sslen": "180"
+ },
+ "Antagonism": {
+  "sds": 9,
+  "sname": "Antagonism",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Yooh vs. siromaru",
+  "sslen": "160"
+ },
+ "Lost Desire": {
+  "sds": 9,
+  "sname": "Lost Desire",
+  "soname": null,
+  "spushi": "Darkest Dream",
+  "squshi": "Powerless feat. Sennzai",
+  "sslen": "170"
+ },
+ "Dantalion": {
+  "sds": 10,
+  "sname": "Dantalion",
+  "soname": null,
+  "spushi": "\u591c\u6d6a X \u6771\u661f \"The Lost\"",
+  "squshi": "Team Grimoire",
+  "sslen": "186"
+ },
+ "#1f1e33": {
+  "sds": 10,
+  "sname": "#1f1e33",
+  "soname": null,
+  "spushi": "\u591c\u6d6a VS \u6771\u661f \"Convergence\"",
+  "squshi": "\u304b\u3081\u308a\u3042(EDP)",
+  "sslen": "181"
+ },
+ "Tempestissimo": {
+  "sds": 10,
+  "sname": "Tempestissimo",
+  "soname": null,
+  "spushi": "Onslaught - Crescendo",
+  "squshi": "t+pazolite",
+  "sslen": "231"
+ },
+ "Arcahv": {
+  "sds": 9,
+  "sname": "Arcahv",
+  "soname": null,
+  "spushi": "\u2205",
+  "squshi": "Feryquitous",
+  "sslen": "191"
+ },
+ "Altale": {
+  "sds": 9,
+  "sname": "Altale",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "Sakuzyo",
+  "sslen": "83-90"
+ },
+ "Give Me a Nightmare": {
+  "sds": 8,
+  "sname": "Give Me a Nightmare",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "\u30a2\u30ea\u30b9\u30b7\u30e3\u30c3\u30cf\u3068\u9b54\u6cd5\u306e\u697d\u56e3",
+  "sslen": "95-190"
+ },
+ "Black Lotus": {
+  "sds": 9,
+  "sname": "Black Lotus",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "wa.",
+  "sslen": "200"
+ },
+ "Gekka (Short Version)": {
+  "sds": 8,
+  "sname": "Gekka (Short Version)",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Nhato",
+  "sslen": "132"
+ },
+ "Vivid Theory": {
+  "sds": 8,
+  "sname": "Vivid Theory",
+  "soname": null,
+  "spushi": "TaroNuke",
+  "squshi": "ak+q",
+  "sslen": "178"
+ },
+ "1F\u221a": {
+  "sds": 8,
+  "sname": "1F\u221a",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "WHITEFISTS",
+  "sslen": "130"
+ },
+ "Scarlet Cage": {
+  "sds": 9,
+  "sname": "Scarlet Cage",
+  "soname": null,
+  "spushi": "\u8d64Nitro",
+  "squshi": "Daisuke Kurosawa",
+  "sslen": "166"
+ },
+ "Faint Light (Arcaea Edit)": {
+  "sds": 9,
+  "sname": "Faint Light (Arcaea Edit)",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Taishi",
+  "sslen": "133"
+ },
+ "Feels So Right feat. Renko": {
+  "sds": 9,
+  "sname": "Feels So Right feat. Renko",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Mysteka",
+  "sslen": "180"
+ },
+ "Teriqma": {
+  "sds": 9,
+  "sname": "Teriqma",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "owl*tree",
+  "sslen": "128"
+ },
+ "MAHOROBA": {
+  "sds": 9,
+  "sname": "MAHOROBA",
+  "soname": null,
+  "spushi": "TaroNuke + Nitro",
+  "squshi": "Zekk",
+  "sslen": "195"
+ },
+ "BADTEK": {
+  "sds": 9,
+  "sname": "BADTEK",
+  "soname": null,
+  "spushi": "BADTOAST ft. Kurorak",
+  "squshi": "EBIMAYO",
+  "sslen": "190"
+ },
+ "Malicious Mischance": {
+  "sds": 10,
+  "sname": "Malicious Mischance",
+  "soname": null,
+  "spushi": "\u00d7NITRO\u00d7",
+  "squshi": "s-don",
+  "sslen": "155"
+ },
+ "Got hive of Ra": {
+  "sds": 9,
+  "sname": "Got hive of Ra",
+  "soname": null,
+  "spushi": "Groove Nitro",
+  "squshi": "E.G.G.",
+  "sslen": "268"
+ },
+ "BUCHiGiRE Berserker": {
+  "sds": 10,
+  "sname": "BUCHiGiRE Berserker",
+  "soname": null,
+  "spushi": "\u6771\u661f vs \u591c\u6d6a \u300aBERSERK\u300b",
+  "squshi": "REDALiCE vs MASAKI",
+  "sslen": "200"
+ },
+ "Galaxy Friends": {
+  "sds": 9,
+  "sname": "Galaxy Friends",
+  "soname": null,
+  "spushi": "Nitrome X",
+  "squshi": "Kobaryo",
+  "sslen": "300"
+ },
+ "CROSS\u2020OVER": {
+  "sds": 9,
+  "sname": "CROSS\u2020OVER",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "HyuN feat. LyuU",
+  "sslen": "200"
+ },
+ "Xeraphinite": {
+  "sds": 9,
+  "sname": "Xeraphinite",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u7a7a\u306e\u5b9d\u77f3",
+  "squshi": "BlackY",
+  "sslen": "146"
+ },
+ "Lapis": {
+  "sds": 9,
+  "sname": "Lapis",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "SHIKI",
+  "sslen": "146"
+ },
+ "Xanatos": {
+  "sds": 10,
+  "sname": "Xanatos",
+  "soname": null,
+  "spushi": "XERiNG \u00d7 eXschwasion \u00d7 NitromeX",
+  "squshi": "Tatsh",
+  "sslen": "170"
+ },
+ "Purple Verse": {
+  "sds": 9,
+  "sname": "Purple Verse",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "Hommarju",
+  "sslen": "170"
+ },
+ "Alice \u00e0 la mode": {
+  "sds": 9,
+  "sname": "Alice \u00e0 la mode",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Masanori Akita",
+  "sslen": "80-134"
+ },
+ "Eccentric Tale": {
+  "sds": 8,
+  "sname": "Eccentric Tale",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Yamajet",
+  "sslen": "132"
+ },
+ "Alice's Suitcase": {
+  "sds": 9,
+  "sname": "Alice's Suitcase",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "Endorfin.",
+  "sslen": "190"
+ },
+ "Jump": {
+  "sds": 9,
+  "sname": "Jump",
+  "soname": null,
+  "spushi": "Nitro\u3060\u30fc\uff01",
+  "squshi": "Rasmus Faber",
+  "sslen": "133"
+ },
+ "Felis": {
+  "sds": 10,
+  "sname": "Felis",
+  "soname": null,
+  "spushi": "\u6771\u661f",
+  "squshi": "M2U",
+  "sslen": "155"
+ },
+ "Beside You": {
+  "sds": 8,
+  "sname": "Beside You",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "\u6c5f\u53e3\u5b5d\u5b8f",
+  "sslen": "181"
+ },
+ "Heart Jackin'": {
+  "sds": 9,
+  "sname": "Heart Jackin'",
+  "soname": null,
+  "spushi": "TaroNuke + Nitro",
+  "squshi": "Yu_Asahina",
+  "sslen": "160"
+ },
+ "To: Alice Liddell": {
+  "sds": 10,
+  "sname": "To: Alice Liddell",
+  "soname": null,
+  "spushi": "Yours Sincerely, \u591c\u6d6a",
+  "squshi": "\u30e2\u30ea\u30e2\u30ea\u3042\u3064\u3057",
+  "sslen": "222"
+ },
+ "Lazy Addiction": {
+  "sds": 9,
+  "sname": "Lazy Addiction",
+  "soname": null,
+  "spushi": "Nitro without Toaster.",
+  "squshi": "sky_delta",
+  "sslen": "185"
+ },
+ "Dazzle hop": {
+  "sds": 9,
+  "sname": "Dazzle hop",
+  "soname": null,
+  "spushi": "Kuro rak",
+  "squshi": "Sampling Masters MEGA",
+  "sslen": "220"
+ },
+ "Viyella's Tears": {
+  "sds": 10,
+  "sname": "Viyella's Tears",
+  "soname": null,
+  "spushi": "\u6771\u661f\u306e\u6d99",
+  "squshi": "Laur",
+  "sslen": "218"
+ },
+ "\u03c94": {
+  "sds": 10,
+  "sname": "\u03c94",
+  "soname": null,
+  "spushi": "\u03c40",
+  "squshi": "\u7a74\u5c71\u5927\u8f14 VS \u5149\u5409\u731b\u4fee VS Kai",
+  "sslen": "71-192"
+ },
+ "April showers": {
+  "sds": 8,
+  "sname": "April showers",
+  "soname": null,
+  "spushi": "Nitro-100\u53f7",
+  "squshi": "cubesato",
+  "sslen": "79"
+ },
+ "7thSense": {
+  "sds": 9,
+  "sname": "7thSense",
+  "soname": null,
+  "spushi": "\u77f3\u6a02",
+  "squshi": "\u524a\u9664",
+  "sslen": "150"
+ },
+ "Oshama Scramble!": {
+  "sds": 10,
+  "sname": "Oshama Scramble!",
+  "soname": null,
+  "spushi": "Nitro!+999\u725b\u4e73",
+  "squshi": "t+pazolite",
+  "sslen": "190"
+ },
+ "AMAZING MIGHTYYYY!!!!": {
+  "sds": 10,
+  "sname": "AMAZING MIGHTYYYY!!!!",
+  "soname": null,
+  "spushi": "AMAZING TOASTYYYY!!!!",
+  "squshi": "WAiKURO",
+  "sslen": "185"
+ },
+ "Climax": {
+  "sds": 10,
+  "sname": "Climax",
+  "soname": null,
+  "spushi": "Nitro -EXTRA ROUND-",
+  "squshi": "USAO",
+  "sslen": "190"
+ },
+ "Last Celebration": {
+  "sds": 10,
+  "sname": "Last Celebration",
+  "soname": null,
+  "spushi": "Nitro affected by 'CHUNITHM'",
+  "squshi": "Laur vs CK",
+  "sslen": "238"
+ },
+ "Misdeed -la bont\u00e9 de Dieu et l'origine du mal-": {
+  "sds": 10,
+  "sname": "Misdeed -la bont\u00e9 de Dieu et l'origine du mal-",
+  "soname": null,
+  "spushi": "\u795e\u306e\u5553\u793a\u300c\u4eba\u985e\u306e\u672a\u6765\u300d",
+  "squshi": "\u5149\u5409\u731b\u4fee VS \u7a74\u5c71\u5927\u8f14",
+  "sslen": "190"
+ },
+ "Glow": {
+  "sds": 9,
+  "sname": "Glow",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "SPACELECTRO",
+  "sslen": "165"
+ },
+ "AttraqtiA": {
+  "sds": 10,
+  "sname": "AttraqtiA",
+  "soname": null,
+  "spushi": "Toaster affected by 'CHUNITHM'",
+  "squshi": "\u304b\u3081\u308a\u3042",
+  "sslen": "202"
+ },
+ "enchanted love": {
+  "sds": 8,
+  "sname": "enchanted love",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "linear ring",
+  "sslen": "95"
+ },
+ "Bamboo": {
+  "sds": 10,
+  "sname": "Bamboo",
+  "soname": null,
+  "spushi": "\u7af9\u306e\u5b50",
+  "squshi": "\u7acb\u79cb feat.\u3061\u3087\u3053",
+  "sslen": "5-315"
+ },
+ "GIMME DA BLOOD": {
+  "sds": 10,
+  "sname": "GIMME DA BLOOD",
+  "soname": null,
+  "spushi": "\u591c\u6d6a",
+  "squshi": "C-Show",
+  "sslen": "87-110"
+ },
+ "Can I Friend You on Bassbook? Lol": {
+  "sds": 9,
+  "sname": "Can I Friend You on Bassbook? Lol",
+  "soname": null,
+  "spushi": "\u30c8\u30fc\u30b9\u30c8\u98df\u3079\u308b\uff1f\u7b11",
+  "squshi": "\u304b\u3081\u308a\u3042 feat. \u306a\u306a\u3072\u3089",
+  "sslen": "128"
+ },
+ "Life is PIANO": {
+  "sds": 9,
+  "sname": "Life is PIANO",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Junk",
+  "sslen": "133"
+ },
+ "Paper Witch": {
+  "sds": 8,
+  "sname": "Paper Witch",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "Yu-dachi",
+  "sslen": "130"
+ },
+ "Crystal Gravity": {
+  "sds": 9,
+  "sname": "Crystal Gravity",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "Tanchiky vs. siromaru",
+  "sslen": "178"
+ },
+ "Far Away Light": {
+  "sds": 9,
+  "sname": "Far Away Light",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "technoplanet feat. \u306f\u308b\u306e & \u9ed2\u6ca2\u30c0\u30a4\u30b9\u30b1",
+  "sslen": "180-216"
+ },
+ "L\u00f6schen": {
+  "sds": 10,
+  "sname": "L\u00f6schen",
+  "soname": null,
+  "spushi": "\u7d76\u6ec5",
+  "squshi": "BlackY feat. Risa Yuzuki",
+  "sslen": "181"
+ },
+ "Aegleseeker": {
+  "sds": 11,
+  "sname": "Aegleseeker",
+  "soname": null,
+  "spushi": "L\u2086\u02d0 The Void",
+  "squshi": "Silentroom vs Frums",
+  "sslen": "234"
+ },
+ "Coastal Highway": {
+  "sds": 8,
+  "sname": "Coastal Highway",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "Glitch Droids",
+  "sslen": "110"
+ },
+ "\u039f\u0394\u03a5\u03a3\u03a3\u0395\u0399\u0391": {
+  "sds": 9,
+  "sname": "\u039f\u0394\u03a5\u03a3\u03a3\u0395\u0399\u0391",
+  "soname": null,
+  "spushi": "\u03a4\u039f\u0391\u03a3\u03a4\u0395\u03a1",
+  "squshi": "Sober Bear",
+  "sslen": "174"
+ },
+ "Overwhelm": {
+  "sds": 10,
+  "sname": "Overwhelm",
+  "soname": null,
+  "spushi": "\u591c\u6d6a",
+  "squshi": "xi",
+  "sslen": "200"
+ },
+ "Vandalism": {
+  "sds": 9,
+  "sname": "Vandalism",
+  "soname": null,
+  "spushi": "Kurorak",
+  "squshi": "Ashrount",
+  "sslen": "194"
+ },
+ "Turbocharger": {
+  "sds": 9,
+  "sname": "Turbocharger",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "A/I",
+  "sslen": "128-170"
+ },
+ "THE ULTIMACY": {
+  "sds": 9,
+  "sname": "THE ULTIMACY",
+  "soname": null,
+  "spushi": "\u6771\u661f vs Toaster",
+  "squshi": "aran vs Massive New Krew",
+  "sslen": "200"
+ },
+ "REKKA RESONANCE": {
+  "sds": 10,
+  "sname": "REKKA RESONANCE",
+  "soname": null,
+  "spushi": "\u591c\u6d6a vs Nitro",
+  "squshi": "REDALiCE vs Kobaryo",
+  "sslen": "240"
+ },
+ "False Embellishment": {
+  "sds": 9,
+  "sname": "False Embellishment",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "\u5f71\u864e\u3002 & ikaruga_nex",
+  "sslen": "155"
+ },
+ "HIVEMIND": {
+  "sds": 10,
+  "sname": "HIVEMIND",
+  "soname": null,
+  "spushi": "NITRO -unconnected-",
+  "squshi": "\u304b\u305f\u304e\u308a",
+  "sslen": "252"
+ },
+ "Seclusion": {
+  "sds": 10,
+  "sname": "Seclusion",
+  "soname": null,
+  "spushi": "N\u2022Ex\u2022T",
+  "squshi": "Laur feat. Sennzai",
+  "sslen": "175"
+ },
+ "Small Cloud Sugar Candy": {
+  "sds": 9,
+  "sname": "Small Cloud Sugar Candy",
+  "soname": null,
+  "spushi": "\u00e9n",
+  "squshi": "\u30c6\u30c5\u30ab x Aoi feat.\u6843\u96db\u306a\u306e",
+  "sslen": "220"
+ },
+ "AlterAle": {
+  "sds": 9,
+  "sname": "AlterAle",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "Arik Kau Delay (\u30a2\u30e9\uff06\u304b\u3086\u304d\uff06\u3067\u308a\uff09",
+  "sslen": "220-245"
+ },
+ "Divine Light of Myriad": {
+  "sds": 10,
+  "sname": "Divine Light of Myriad",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u795e\u6388",
+  "squshi": "yoho",
+  "sslen": "172"
+ },
+ "Mazy Metroplex": {
+  "sds": 9,
+  "sname": "Mazy Metroplex",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "aran",
+  "sslen": "155"
+ },
+ "with U": {
+  "sds": 9,
+  "sname": "with U",
+  "soname": null,
+  "spushi": "\u00e9n",
+  "squshi": "t+pazolite & Massive New Krew feat. \u30ea\u30ea\u30a3(CV:\u9752\u6728\u5fd7\u8cb4)",
+  "sslen": "155"
+ },
+ "GENOCIDER": {
+  "sds": 10,
+  "sname": "GENOCIDER",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "DJ Myosuke",
+  "sslen": "250-390"
+ },
+ "Let you DIVE! (nitro rmx)": {
+  "sds": 9,
+  "sname": "Let you DIVE! (nitro rmx)",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "nitro (lowiro)",
+  "sslen": "185"
+ },
+ "Sheriruth (Laur Remix)": {
+  "sds": 10,
+  "sname": "Sheriruth (Laur Remix)",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u6063\u610f",
+  "squshi": "Laur",
+  "sslen": "200"
+ },
+ "Evening in Scarlet": {
+  "sds": 9,
+  "sname": "Evening in Scarlet",
+  "soname": null,
+  "spushi": "Nitro\u3060\u30fc\uff01",
+  "squshi": "Freezer feat.\u5983\u82fa",
+  "sslen": "170"
+ },
+ "blue comet": {
+  "sds": 8,
+  "sname": "blue comet",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "\u3042\u3042\u3042\u3042",
+  "sslen": "100-172"
+ },
+ "ENERGY SYNERGY MATRIX": {
+  "sds": 9,
+  "sname": "ENERGY SYNERGY MATRIX",
+  "soname": null,
+  "spushi": "POWER NITRO",
+  "squshi": "Tanchiky",
+  "sslen": "160"
+ },
+ "G e n g a o z o": {
+  "sds": 10,
+  "sname": "G e n g a o z o",
+  "soname": null,
+  "spushi": "_ F U T U R E",
+  "squshi": "-45",
+  "sslen": "153"
+ },
+ "goldenslaughterer": {
+  "sds": 9,
+  "sname": "goldenslaughterer",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "zts",
+  "sslen": "133"
+ },
+ "lastendconductor": {
+  "sds": 9,
+  "sname": "lastendconductor",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "zts",
+  "sslen": "139"
+ },
+ "Redolent Shape": {
+  "sds": 10,
+  "sname": "Redolent Shape",
+  "soname": null,
+  "spushi": "\u7d76\u6ec5",
+  "squshi": "Sanaas",
+  "sslen": "150"
+ },
+ "Cosmica": {
+  "sds": 8,
+  "sname": "Cosmica",
+  "soname": null,
+  "spushi": "Nitro missing Toaster.",
+  "squshi": "Nhato",
+  "sslen": "110"
+ },
+ "Ascent": {
+  "sds": 9,
+  "sname": "Ascent",
+  "soname": null,
+  "spushi": "Exschwas\u2191on with CER\u2191NG",
+  "squshi": "TANUKI",
+  "sslen": "145"
+ },
+ "Live Fast Die Young": {
+  "sds": 10,
+  "sname": "Live Fast Die Young",
+  "soname": null,
+  "spushi": "Nitro with Toaster.",
+  "squshi": "anubasu-anubasu",
+  "sslen": "153"
+ },
+ "Summer Fireworks of Love": {
+  "sds": 9,
+  "sname": "Summer Fireworks of Love",
+  "soname": null,
+  "spushi": "\u590f\u306eNitro",
+  "squshi": "karatoP\u03b1nchii feat.\u306f\u308b\u306e",
+  "sslen": "160"
+ },
+ "First Snow": {
+  "sds": 7,
+  "sname": "First Snow",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "\u9ed2\u9b54",
+  "sslen": "88"
+ },
+ "Blue Rose": {
+  "sds": 9,
+  "sname": "Blue Rose",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "Cosmograph",
+  "sslen": "250-295"
+ },
+ "Blocked Library": {
+  "sds": 9,
+  "sname": "Blocked Library",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "\u5f71\u864e\u3002",
+  "sslen": "148"
+ },
+ "n\u03ad\u03bf \u03ba\u03ccsmo": {
+  "sds": 9,
+  "sname": "n\u03ad\u03bf \u03ba\u03ccsmo",
+  "soname": null,
+  "spushi": "Nitro \u00d7 Toaster",
+  "squshi": "ak+q \u00d7 Street",
+  "sslen": "190"
+ },
+ "Lightning Screw": {
+  "sds": 10,
+  "sname": "Lightning Screw",
+  "soname": null,
+  "spushi": "\u6771\u661f",
+  "squshi": "HiTECH NINJA",
+  "sslen": "190"
+ },
+ "Lights of Muse": {
+  "sds": 8,
+  "sname": "Lights of Muse",
+  "soname": null,
+  "spushi": "antymis",
+  "squshi": "Ayatsugu_Otowa",
+  "sslen": "180"
+ },
+ "Final Step!": {
+  "sds": 9,
+  "sname": "Final Step!",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "Lime",
+  "sslen": "180"
+ },
+ "Haze of Autumn": {
+  "sds": 9,
+  "sname": "Haze of Autumn",
+  "soname": null,
+  "spushi": "\u79cb\u306e\u00e9n",
+  "squshi": "karatoP\u03b1nchii feat.\u306f\u308b\u306e",
+  "sslen": "180"
+ },
+ "Medusa": {
+  "sds": 10,
+  "sname": "Medusa",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "HiTECH NINJA",
+  "sslen": "165"
+ },
+ "init()": {
+  "sds": 9,
+  "sname": "init()",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "kamome sano",
+  "sslen": "180"
+ },
+ "INTERNET OVERDOSE": {
+  "sds": 8,
+  "sname": "INTERNET OVERDOSE",
+  "soname": null,
+  "spushi": "Nitro Ch.",
+  "squshi": "Aiobahn feat. KOTOKO",
+  "sslen": "163"
+ },
+ "Sakura Fubuki": {
+  "sds": 9,
+  "sname": "Sakura Fubuki",
+  "soname": null,
+  "spushi": "\u00e9n",
+  "squshi": "Street",
+  "sslen": "175"
+ },
+ "NULCTRL": {
+  "sds": 9,
+  "sname": "NULCTRL",
+  "soname": null,
+  "spushi": "moonquay [NUL]",
+  "squshi": "Silentroom",
+  "sslen": "100"
+ },
+ "Macrocosmic Modulation": {
+  "sds": 9,
+  "sname": "Macrocosmic Modulation",
+  "soname": null,
+  "spushi": "Exschwas\u2195on",
+  "squshi": "JAKAZiD",
+  "sslen": "170"
+ },
+ "NEO WINGS": {
+  "sds": 10,
+  "sname": "NEO WINGS",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "SOUND HOLIC feat. Nana Takahashi",
+  "sslen": "168"
+ },
+ "Kissing Lucifer": {
+  "sds": 10,
+  "sname": "Kissing Lucifer",
+  "soname": null,
+  "spushi": "NITRO",
+  "squshi": "ETIA.",
+  "sslen": "170"
+ },
+ "\u00c4vril -Flicka i krans-": {
+  "sds": 8,
+  "sname": "\u00c4vril -Flicka i krans-",
+  "soname": null,
+  "spushi": "Aster -F\u00e5r i Vaaris-",
+  "squshi": "Rig\u00ebl Theatre",
+  "sslen": "130"
+ },
+ "Aurgelmir": {
+  "sds": 10,
+  "sname": "Aurgelmir",
+  "soname": null,
+  "spushi": "\u591c\u6d6a",
+  "squshi": "\u6e9d\u53e3\u3086\u3046\u307e feat. \u5927\u702c\u826f\u3042\u3044",
+  "sslen": "122-230"
+ },
+ "Head BONK ache": {
+  "sds": 9,
+  "sname": "Head BONK ache",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "saaa ft. MC iwata Bros.",
+  "sslen": "132-165"
+ },
+ "DDD": {
+  "sds": 8,
+  "sname": "DDD",
+  "soname": null,
+  "spushi": "\u00e9n",
+  "squshi": "\u306f\u304c\u306d",
+  "sslen": "138"
+ },
+ "Prism": {
+  "sds": 8,
+  "sname": "Prism",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "bermei.inazawa ft. Chata",
+  "sslen": "107-109"
+ },
+ "Protoflicker": {
+  "sds": 9,
+  "sname": "Protoflicker",
+  "soname": null,
+  "spushi": "antymis <prototype>",
+  "squshi": "Silentroom",
+  "sslen": "140"
+ },
+ "Stasis": {
+  "sds": 10,
+  "sname": "Stasis",
+  "soname": null,
+  "spushi": "\u6771\u661f",
+  "squshi": "Maozon",
+  "sslen": "180"
+ },
+ "PICO-Pico-Translation!": {
+  "sds": 9,
+  "sname": "PICO-Pico-Translation!",
+  "soname": null,
+  "spushi": "Translated by \u00e9n",
+  "squshi": "t+pazolite,\u306a\u306a\u3072\u3089,Cranky,Pico*",
+  "sslen": "185"
+ },
+ "Dancin' on a Cat's Paw": {
+  "sds": 9,
+  "sname": "Dancin' on a Cat's Paw",
+  "soname": null,
+  "spushi": "antymis",
+  "squshi": "Ino(chronoize)",
+  "sslen": "148"
+ },
+ "\u03bc": {
+  "sds": 9,
+  "sname": "\u03bc",
+  "soname": null,
+  "spushi": "N\u2195TRO v1.0.5",
+  "squshi": "Frums",
+  "sslen": "140-190"
+ },
+ "san skia": {
+  "sds": 8,
+  "sname": "san skia",
+  "soname": null,
+  "spushi": "CERiNG",
+  "squshi": "\u30e6\u30a2\u30df\u30c8\u30b9",
+  "sslen": "170"
+ },
+ "Altair (feat. *spiLa*)": {
+  "sds": 8,
+  "sname": "Altair (feat. *spiLa*)",
+  "soname": null,
+  "spushi": "antymis",
+  "squshi": "kamome sano & you",
+  "sslen": "170"
+ },
+ "Redraw the Colorless World": {
+  "sds": 9,
+  "sname": "Redraw the Colorless World",
+  "soname": null,
+  "spushi": "antymis ~\u8679\u8272~",
+  "squshi": "MisomyL",
+  "sslen": "155"
+ },
+ "Trap Crow": {
+  "sds": 9,
+  "sname": "Trap Crow",
+  "soname": null,
+  "spushi": "CERiNG + Nitro",
+  "squshi": "Puru",
+  "sslen": "80"
+ },
+ "PUPA": {
+  "sds": 10,
+  "sname": "PUPA",
+  "soname": null,
+  "spushi": "\u00e9n -\u80e1\u8776\u306e\u5922-",
+  "squshi": "\u30e2\u30ea\u30e2\u30ea\u3042\u3064\u3057",
+  "sslen": "202"
+ },
+ "Defection": {
+  "sds": 9,
+  "sname": "Defection",
+  "soname": null,
+  "spushi": "Monolith Incarnate",
+  "squshi": "TeddyLoid feat. DELTA",
+  "sslen": "160"
+ },
+ "Infinite Strife,": {
+  "sds": 9,
+  "sname": "Infinite Strife,",
+  "soname": null,
+  "spushi": "Inner Labyrinth",
+  "squshi": "BlackYooh vs. siromaru",
+  "sslen": "198"
+ },
+ "World Ender": {
+  "sds": 9,
+  "sname": "World Ender",
+  "soname": null,
+  "spushi": "Imaginary Sky",
+  "squshi": "sasakure.UK \u00d7 TJ.hangneil",
+  "sslen": "190-280"
+ },
+ "Pentiment": {
+  "sds": 10,
+  "sname": "Pentiment",
+  "soname": null,
+  "spushi": "Paradox Blight",
+  "squshi": "Nothing But Requiem with Museo",
+  "sslen": "200-222"
+ },
+ "Arcana Eden": {
+  "sds": 10,
+  "sname": "Arcana Eden",
+  "soname": null,
+  "spushi": "Eye of the Storm",
+  "squshi": "Team Grimoire vs Sakuzyo vs Laur",
+  "sslen": "211"
+ },
+ "Testify": {
+  "sds": 10,
+  "sname": "Testify",
+  "soname": null,
+  "spushi": "Black\u00a6FUTURE",
+  "squshi": "void (Mournfinale) feat. \u661f\u718a\u5357\u5deb",
+  "sslen": "178"
+ },
+ "Loveless Dress": {
+  "sds": 9,
+  "sname": "Loveless Dress",
+  "soname": null,
+  "spushi": "Final Prayer",
+  "squshi": "\u304b\u306d\u3053\u3061\u306f\u308b",
+  "sslen": "99"
+ },
+ "Last": {
+  "sds": 9,
+  "sname": "Last",
+  "soname": null,
+  "spushi": "Arcaea",
+  "squshi": "onoken",
+  "sslen": "175"
+ },
+ "Last | Eternity": {
+  "sds": 0,
+  "sname": "Last | Eternity",
+  "soname": null,
+  "spushi": "",
+  "squshi": "onoken",
+  "sslen": "175"
+ },
+ "Callima Karma": {
+  "sds": 9,
+  "sname": "Callima Karma",
+  "soname": null,
+  "spushi": "Forlorn Dream",
+  "squshi": "t+pazolite vs Feryquitous",
+  "sslen": "95"
+ },
+ "Heart": {
+  "sds": 9,
+  "sname": "Heart",
+  "soname": null,
+  "spushi": "\u00e9cologie (from SEGA)",
+  "squshi": "\u524a\u9664 (Violin : Katali)",
+  "sslen": "80"
+ },
+ "Ai Drew": {
+  "sds": 9,
+  "sname": "Ai Drew",
+  "soname": null,
+  "spushi": "moonquay v.MASTER",
+  "squshi": "Feryquitous",
+  "sslen": "175"
+ },
+ "FLUFFY FLASH": {
+  "sds": 9,
+  "sname": "FLUFFY FLASH",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Kobaryo",
+  "sslen": "252"
+ },
+ "Good bye, Merry-Go-Round.": {
+  "sds": 10,
+  "sname": "Good bye, Merry-Go-Round.",
+  "soname": null,
+  "spushi": "\u7d76\u6ec5",
+  "squshi": "Yooh",
+  "sslen": "185"
+ },
+ "LAMIA": {
+  "sds": 10,
+  "sname": "LAMIA",
+  "soname": null,
+  "spushi": "[\u6f06\u9ed2\u306e\u57f7\u884c\u8005] \u591c\u6d6a",
+  "squshi": "BlackY",
+  "sslen": "199"
+ },
+ "Free Myself": {
+  "sds": 10,
+  "sname": "Free Myself",
+  "soname": null,
+  "spushi": "Exschwasion -unbound-",
+  "squshi": "lapix feat. mami",
+  "sslen": "153"
+ },
+ "cocoro*cosmetic": {
+  "sds": 9,
+  "sname": "cocoro*cosmetic",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "KOTONOHOUSE",
+  "sslen": "144"
+ },
+ "Capella": {
+  "sds": 10,
+  "sname": "Capella",
+  "soname": null,
+  "spushi": "0\u00b0Nitro",
+  "squshi": "ARForest",
+  "sslen": "210"
+ },
+ "Dialnote": {
+  "sds": 8,
+  "sname": "Dialnote",
+  "soname": null,
+  "spushi": "Nitro\u3067\u3059\u3002",
+  "squshi": "\u4e03\u8349\u304f\u308a\u3080",
+  "sslen": "130"
+ },
+ "Tsuki ni Murakumo, Hana ni Kaze": {
+  "sds": 8,
+  "sname": "Tsuki ni Murakumo, Hana ni Kaze",
+  "soname": null,
+  "spushi": "Lovely Visitor\u300cToaster\u300d",
+  "squshi": "\u5e7d\u9589\u30b5\u30c6\u30e9\u30a4\u30c8",
+  "sslen": "160"
+ },
+ "MANTIS (Arcaea Ultra-Bloodrush VIP)": {
+  "sds": 9,
+  "sname": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+  "soname": null,
+  "spushi": "ANTyMIS",
+  "squshi": "Akira Complex feat. kiraku",
+  "sslen": "135"
+ },
+ "World Fragments III(radio edit)": {
+  "sds": 9,
+  "sname": "World Fragments III(radio edit)",
+  "soname": null,
+  "spushi": "\u00e9n supported by Nitro",
+  "squshi": "xi",
+  "sslen": "200"
+ },
+ "Astra walkthrough": {
+  "sds": 9,
+  "sname": "Astra walkthrough",
+  "soname": null,
+  "spushi": "Aster join Toaster.",
+  "squshi": "paraoka",
+  "sslen": "225"
+ },
+ "Chronicle": {
+  "sds": 10,
+  "sname": "Chronicle",
+  "soname": null,
+  "spushi": "\u591c\u6d6a -Annales Historiae-",
+  "squshi": "Lime",
+  "sslen": "221"
+ },
+ "NULL APOPHENIA": {
+  "sds": 10,
+  "sname": "NULL APOPHENIA",
+  "soname": null,
+  "spushi": "\u6771\u661f vs \u591c\u6d6a\u300aAPOPH\u00c4NIE\u300b",
+  "squshi": "N\u00b2",
+  "sslen": "177"
+ },
+ "Crimson Throne": {
+  "sds": 10,
+  "sname": "Crimson Throne",
+  "soname": null,
+  "spushi": "Toaster",
+  "squshi": "Dimier\u221aLisb",
+  "sslen": "210"
+ },
+ "Manic Jeer": {
+  "sds": 10,
+  "sname": "Manic Jeer",
+  "soname": null,
+  "spushi": "NITR<O>",
+  "squshi": "\u30eb\u30bc",
+  "sslen": "195"
+ },
+ "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)": {
+  "sds": 10,
+  "sname": "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+  "soname": null,
+  "spushi": "\u7d76\u6ec5 Exschwasion \u7d76\u6ec5 Exschwasion",
+  "squshi": "nayuta x \u9ed2\u9ce5(EastNewSound)",
+  "sslen": "150"
+ },
+ "Let's Rock (Arcaea mix)": {
+  "sds": 9,
+  "sname": "Let's Rock (Arcaea mix)",
+  "soname": null,
+  "spushi": "Luxance",
+  "squshi": "ikaruga_nex vs FALCHiON",
+  "sslen": "210"
+ },
+ "CYCLES": {
+  "sds": 8,
+  "sname": "CYCLES",
+  "soname": null,
+  "spushi": "N-Helix",
+  "squshi": "Masayoshi Minoshima feat. \u7dbe\u5009\u76df",
+  "sslen": "135"
+ },
+ "MAXRAGE": {
+  "sds": 9,
+  "sname": "MAXRAGE",
+  "soname": null,
+  "spushi": "EXSCHWASION",
+  "squshi": "EBIMAYO",
+  "sslen": "222"
+ },
+ "[X]": {
+  "sds": 10,
+  "sname": "[X]",
+  "soname": null,
+  "spushi": "\u6771\u661f",
+  "squshi": "Blacklolita",
+  "sslen": "162-180"
+ },
+ "TEmPTaTiON": {
+  "sds": 10,
+  "sname": "TEmPTaTiON",
+  "soname": null,
+  "spushi": "EXtINcTiON",
+  "squshi": "\u304b\u306d\u3053\u3061\u306f\u308b",
+  "sslen": "160"
+ },
+ "PRIMITIVE LIGHTS": {
+  "sds": 10,
+  "sname": "PRIMITIVE LIGHTS",
+  "soname": null,
+  "spushi": "\u6771\u661f\u203b\u539f\u521d\u306e\u706f",
+  "squshi": "TAG",
+  "sslen": "205"
+ },
+ "Cosmo Pop Funclub": {
+  "sds": 8,
+  "sname": "Cosmo Pop Funclub",
+  "soname": null,
+  "spushi": "Nitro NEW!!",
+  "squshi": "\u30ca\u30e6\u30bf\u30f3\u661f\u4eba",
+  "sslen": "129"
+ },
+ "IMPACT": {
+  "sds": 9,
+  "sname": "IMPACT",
+  "soname": null,
+  "spushi": "\u00e9n feat. \u00e9cologie",
+  "squshi": "USAO feat. \u5149\u5409\u731b\u4fee",
+  "sslen": "210"
+ },
+ "Trrricksters!!": {
+  "sds": 10,
+  "sname": "Trrricksters!!",
+  "soname": null,
+  "spushi": "\u7d76\u6ec5",
+  "squshi": "s-don vs. \u7fe1\u4e43\u30a4\u30b9\u30ab",
+  "sslen": "155"
+ },
+ "Spider's Thread": {
+  "sds": 10,
+  "sname": "Spider's Thread",
+  "soname": null,
+  "spushi": "\u591c\u6d6a <->",
+  "squshi": "\u304d\u304f\u304a\u00d7cosMo\uff20\u66b4\u8d70P feat.\u5f71\u7e2b\u82f1",
+  "sslen": "180"
+ },
+ "Lost Emotion feat. nomico": {
+  "sds": 9,
+  "sname": "Lost Emotion feat. nomico",
+  "soname": null,
+  "spushi": "\u30dd\u30fc\u30ab\u30fc\u30d5\u30a7\u30a4\u30b9\u306eToaster",
+  "squshi": "Masayoshi Minoshima(ALR)",
+  "sslen": "172"
+ },
+ "GIMMICK": {
+  "sds": 9,
+  "sname": "GIMMICK",
+  "soname": null,
+  "spushi": "antymis + Nitro",
+  "squshi": "Ms.Sill",
+  "sslen": "143"
+ },
+ "The Survivor (Game Edit)": {
+  "sds": 9,
+  "sname": "The Survivor (Game Edit)",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "Taishi",
+  "sslen": "132"
+ },
+ "New York Back Raise": {
+  "sds": 9,
+  "sname": "New York Back Raise",
+  "soname": null,
+  "spushi": "Exschwasion \u300cALL IN\u300d",
+  "squshi": "saaa + kei_iwata + stuv + \u308f\u304b\u3069\u308a",
+  "sslen": "160"
+ },
+ "Galactic Love": {
+  "sds": 9,
+  "sname": "Galactic Love",
+  "soname": null,
+  "spushi": "\u00e9n",
+  "squshi": "La pri\u00e8re",
+  "sslen": "145"
+ },
+ "Lawless Point": {
+  "sds": 8,
+  "sname": "Lawless Point",
+  "soname": null,
+  "spushi": "Luxance",
+  "squshi": "La pri\u00e8re",
+  "sslen": "148"
+ },
+ "Lost in the Abyss": {
+  "sds": 9,
+  "sname": "Lost in the Abyss",
+  "soname": null,
+  "spushi": "Nitro",
+  "squshi": "FELT",
+  "sslen": "183"
+ },
+ "Hybris (The one who shattered)": {
+  "sds": 9,
+  "sname": "Hybris (The one who shattered)",
+  "soname": null,
+  "spushi": "Exschwasion",
+  "squshi": "qfeileadh feat.\u306e\u3042",
+  "sslen": "158"
+ },
+ "To the Milky Way": {
+  "sds": 10,
+  "sname": "To the Milky Way",
+  "soname": null,
+  "spushi": "Nitro\u3060\u30fc\uff01",
+  "squshi": "\u9ed2\u9b54",
+  "sslen": "186"
+ }
+}
