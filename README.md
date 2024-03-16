@@ -17,6 +17,8 @@
     netstat -ano|findstr 8000  # 查询占用端口的程序
     taskkill /pid 进程id /F # 杀死进程
 
-### 使用
+### 自定义启动api服务器
 
-    uvicorn WebGUI:app --host 0.0.0.0 --port 8080 --reload  # 进行高度自定义启动
+    uvicorn WebGUI:app --host 0.0.0.0 --port 8080 --reload  
+
+## 3.运行：双击GUI目录下的index.html文件
